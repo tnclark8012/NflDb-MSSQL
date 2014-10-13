@@ -1,6 +1,8 @@
 ### Fork
 This fork of NFL DB is intended to port the modules for connectivity to an MSSQL database rather and PostgreSQL
 
+----------------------------------------------------------------------------
+### NFL DB
 nfldb is a relational database bundled with a Python module to quickly and 
 conveniently query and update the database with data from active games.
 Data is imported from
